@@ -16,7 +16,7 @@ public:
 	void Show() const;
 	/**
 	* @brief Calculate vector length.
-	* @return vector length
+	* @return Vector length
 	*/
 	double GetLength() const;
 

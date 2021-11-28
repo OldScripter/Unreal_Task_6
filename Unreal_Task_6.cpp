@@ -18,7 +18,7 @@ int main()
 	delete v2;
 	v2 = nullptr;
 
-	Vector* v3 = new Vector(-1, 0, 0);
+	Vector* v3 = new Vector(0, -1, 0);
 	std::cout << "Vector \"v3\" length: " << v3->GetLength() << "\n";
 	delete v3;
 	v3 = nullptr;
